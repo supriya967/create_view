@@ -39,3 +39,7 @@ This project successfully demonstrates:
 How to organize employee data using MySQL.
 How to use views to simplify queries and protect sensitive data.
 The importance of abstraction and security in database management.
+
+---
+name-supriya priyadarsani pati
+Tools Used-mysql workbench,vscode,git/github,youtube video
